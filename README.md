@@ -1,6 +1,6 @@
 # GDD-140-Template
 
-[![pages-build-deployment](https://github.com/LittleTealeaf/GDD-140-Exercise-1.1/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/LittleTealeaf/GDD-140-Exercise-1.1/actions/workflows/pages/pages-build-deployment)  
+[![pages-build-deployment](https://github.com/LittleTealeaf/GDD-140-Exercise-1.1/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/LittleTealeaf/GDD-140-Exercise-1.1/actions/workflows/pages/pages-build-deployment)  
 
 [**View Deployment**](https://littletealeaf.github.io/GDD-140-Exercise-1.1/)
 
